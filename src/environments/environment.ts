@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseURL: 'https://avatar-app.onrender.com/api',
+  baseURL: 'https://avatar-app2.onrender.com/api',
 };
 
 /*
